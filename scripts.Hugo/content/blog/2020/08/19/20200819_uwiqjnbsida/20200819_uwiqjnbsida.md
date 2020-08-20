@@ -1,7 +1,7 @@
 ---
-title : "希望之聲時事熱點:希望之聲時事熱點 Live Stream "
-title2 : "希望之聲時事熱點 Live Stream "
-info2 : "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. "
+title : "希望之聲時事熱點:袁弓夷—为什么反共"
+title2 : "希望之聲時事熱點 袁弓夷—为什么反共"
+info2 : "袁弓夷—为什么反共"
 date:        2020-08-19T15:56:49-07:00
 author:
  - youtube_希望之聲時事熱點
@@ -18,7 +18,7 @@ categories:
 #resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
 ---
 
-{{< mydiv text="希望之聲時事熱點:Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. "
+{{< mydiv text="希望之聲時事熱點:袁弓夷—为什么反共"
 >}}
 <br>
 
@@ -32,7 +32,7 @@ categories:
 
 
 
-{{< mydiv text="希望之聲時事熱點:希望之聲時事熱點 Live Stream "
+{{< mydiv text="希望之聲時事熱點:袁弓夷—为什么反共"
 >}}
 <br>
 
