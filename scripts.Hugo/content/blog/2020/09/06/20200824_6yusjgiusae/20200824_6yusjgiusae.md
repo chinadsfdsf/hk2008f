@@ -1,0 +1,45 @@
+---
+title : "文昭談古論今_-Wen_Zhao_Official:川普中美全脫鉤5政綱登場；美國要立法禁稱習近平“國家主席”、追百年前萬億巨債（文昭談古論今20200824第806期） "
+title2 : "川普中美全脫鉤5政綱登場；美國要立法禁稱習近平“國家主席”、追百年前萬億巨債（文昭談古論今20200824第806期） "
+info2 : "#川普 推出第二任期 #政綱 目標，事關 #中國 有5項，可能導致 #中美 完全 #脫鉤；#美國 #國會 可能立法禁止稱 #習近平 #國家主席；并且力主追索 一個 #世紀 前的價值 #萬億巨債  本集節目的文稿+音頻mp3+視頻無廣告版，可在會員網站獲取，歡迎訂閱：www.wenzhao.ca。若您有任何問題，請聯繫客服：wenzhaocomment.2@gmail.com。 本期節目的免翻牆觀看鏈接在置頂留言。視頻添加了中文字幕，youtube可自動翻譯成英文。點 setting - subtitles/cc - auto-translate - english，即可看到英文字幕，歡迎向說英語的朋友傳播 "
+date:        2020-09-06T14:32:21-07:00
+author:
+ - youtube_文昭談古論今_-Wen_Zhao_Official
+tags:
+ - youtube
+ - 文昭談古論今_-Wen_Zhao_Official
+ - youtube_文昭談古論今_-Wen_Zhao_Official
+ - 2020_09
+ - 2020_0906
+ - 2020_0906_14
+categories:
+ - 2020_0906
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="文昭談古論今_-Wen_Zhao_Official:#川普 推出第二任期 #政綱 目標，事關 #中國 有5項，可能導致 #中美 完全 #脫鉤；#美國 #國會 可能立法禁止稱 #習近平 #國家主席；并且力主追索 一個 #世紀 前的價值 #萬億巨債  本集節目的文稿+音頻mp3+視頻無廣告版，可在會員網站獲取，歡迎訂閱：www.wenzhao.ca。若您有任何問題，請聯繫客服：wenzhaocomment.2@gmail.com。 本期節目的免翻牆觀看鏈接在置頂留言。視頻添加了中文字幕，youtube可自動翻譯成英文。點 setting - subtitles/cc - auto-translate - english，即可看到英文字幕，歡迎向說英語的朋友傳播 "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200824_6yusjgiusae.webm"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="文昭談古論今_-Wen_Zhao_Official:川普中美全脫鉤5政綱登場；美國要立法禁稱習近平“國家主席”、追百年前萬億巨債（文昭談古論今20200824第806期） "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=6YUsjgiUSaE"
+>}}
+
+
+<br>
+
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲 "  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部 "  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M3U  "    "复制 M3U 播放器使用的链接：单曲" >}} {{< mybr2 >}} {{< my2buttoncopy2clip ""                  "green"  "black"  " 本页 "    "复制 本页的网址 " >}} {{< my2buttoncopy2clip "/"                 "black"  "red"    " 主站 "    "复制 主站的网址 " >}} {{< mybr2 >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} 
